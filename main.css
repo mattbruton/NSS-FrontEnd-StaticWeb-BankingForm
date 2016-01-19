@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  box-sizing: content-box;
+}
+
+body {
+}
+
+.contentChild {
+  margin: 5%;
+}
+
+.personal {
+  margin: auto;
+  padding: 2%;
+}
+
+.test {
+  margin: auto;
+}
+
+/*.persItem {
+  margin: 5% 1% 5% 5%;
+}
+*/
+.persItemText {
+  border:2px solid #b27f87;
+  color: #fff;
+  padding: 5px 15px 10px 15px;
+  margin: 5px;  
+  background: #ffe1df;
+  border-radius: 10px;
+  /*align-self: flex-start;*/
+  align-items: center;
+}
+
+.loanInfo {
+  max-width: 60%;
+  margin: auto;
+}
+
+.loanInfo li {
+  list-style: none;
+}
+
+.comments {
+  max-width: 60%;
+  margin: auto;
+}
+
+/*.comments textarea {
+}*/
+
+/*.contactInfo {
+  max-width: 60%;
+  margin: auto;
+}*/
+
+/*.contactInfo input {
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;*/
+}
